@@ -18,6 +18,7 @@ Icon
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 measurements*
+result*
 
 # Directories potentially created on remote AFP share
 .AppleDB

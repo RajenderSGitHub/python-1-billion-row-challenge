@@ -36,7 +36,7 @@ def main():
     df_result = _generate_report(df)
     print(f"Result DataFrame: {df_result.shape}")
     print(df_result.head())
-    df_result.write_csv("output/measurements_500_polars.csv")
+    df_result.write_csv("output/measurements_small_polars.csv")
     print(f"Processing complete....")
 
 if __name__ == "__main__":
